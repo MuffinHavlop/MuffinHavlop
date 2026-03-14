@@ -15,12 +15,12 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 
 <h3 align="center">I'm also very interested in programming and computer related stuffs</h3>
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJhOTFvaXNrZXY3dHVmeWs1dHhiOXkxcXUxbWRxcm1ldDduaDR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif" width="500">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNtang2c2xyam9mYWtzb3l4M2JjYmhxM3BxaXh0OGZ1OXkxdjJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
 </p>
 <div align="center">
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Graphical Programming ■ Operating System ■ Low-Level Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Lithography ■ Making things go beepboop ■ Low-Level Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
