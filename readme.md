@@ -19,7 +19,9 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 </p>
 
 <p align="center">
-■ Computing programming ■ Web designing ■ Low-Level Programming ■
+  <div style="border:1px solid gray; padding:12px; border-radius:8px; width:400px; margin:auto;">
+      ■ Graphical Programming ■ Operating System ■ Low-Level Programming ■
+  </div>
 </p>
 
 ---
