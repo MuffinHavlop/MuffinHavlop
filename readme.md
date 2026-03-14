@@ -27,6 +27,4 @@ Hardware | Python | Mathematics | Physics | Engineering
 
 </p>
 
-<p align="center">
-One must imagine mastering engineering.
-</p>
+<p align="center">One must imagine mastering engineering.</p>
