@@ -18,11 +18,11 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJhOTFvaXNrZXY3dHVmeWs1dHhiOXkxcXUxbWRxcm1ldDduaDR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif" width="500">
 </p>
 
-<p align="center">
-  <div style="border:1px solid gray; padding:12px; border-radius:8px; width:400px; margin:auto;">
-      ■ Graphical Programming ■ Operating System ■ Low-Level Programming ■
-  </div>
-</p>
+┌───────────────────────────────┐
+  Graphical Programming
+  Operating System
+  Low-Level Programming
+└───────────────────────────────┘
 
 ---
 
