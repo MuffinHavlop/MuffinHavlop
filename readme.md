@@ -20,7 +20,7 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 <div align="center">
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Lithography ■ Making things go beepboop ■ Low-Level Programming ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Lithography ■ Making things go beepboop ■ Coding for fun ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
