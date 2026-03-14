@@ -24,7 +24,7 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 
 ---
 
-## Stuff I like
+<h1 align="center">Main studies</h1>
 
 <p align="center">Hardware | Python | Mathematics | Physics | Engineering</p>
 
