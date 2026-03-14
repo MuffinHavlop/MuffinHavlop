@@ -31,4 +31,4 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 
 <p align="center">Hardware | Python | Mathematics | Physics | Engineering</p>
 
-<p align="center">One must imagine mastering engineering.</p>
+<p align="center">■One must imagine hapniess in engineering (it's painful).■</p>
