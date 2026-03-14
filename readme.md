@@ -7,7 +7,7 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 </p>
 
 ---
-<h3 align="center">I'm an engineering main, like studying physics and stuff, but I'm mainly in making or packaging semiconductors</h3>
+<h3 align="center">I'm an engineering main, like studying physics and stuff, but I'm mainly in lithography technology or packaging semiconductors</h3>
 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF0NWxjdzUxZmYzZHJmeTE1YmJ3a2xrZ2o5dGoyMTk3dXYyM2N1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4azSlFs0cgaw5q/giphy.gif" width="500">
