@@ -21,7 +21,7 @@ An amateur programmer, engineering student at UET-VNU. I mainly study engineerin
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Semiconductor-009688?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semiconductor-009688?style=for-the-badge&logo=tsmc&logoColor=white"/>
   <img src="https://img.shields.io/badge/FPGA-003366?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded-000000?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
