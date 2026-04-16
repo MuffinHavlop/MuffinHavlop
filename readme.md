@@ -23,7 +23,6 @@ An amateur programmer, engineering student at UET-VNU. I mainly study engineerin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PUT_YOUR_BASE64_HERE"/>
   <img src="https://img.shields.io/badge/Semicon-009688?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-003366?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded-000000?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-003366?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
