@@ -6,7 +6,7 @@ An amateur programmer, engineering student at UET-VNU. I mainly study engineerin
 
 
 ---
-<h3>Engineering main</h3><p>like studying physics and calculus, but I'm mainly in Nano materials & devices and semiconductors </p>
+<h1>About</h1>
 </p>
 <p>Interested in semiconducting industry and IC design</p>
 <p>Interedted in FPGA engineering/Chip verification process</p>
