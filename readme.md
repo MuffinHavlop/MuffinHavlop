@@ -23,6 +23,5 @@ An amateur programmer, engineering student at UET-VNU. I mainly study engineerin
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/IC%20Design-FF6F00?style=for-the-badge&logo=chip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Semiconductor-009688?style=for-the-badge&logo=chip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Semiconductor-009688?style=for-the-badge&logo=chip&logoColor=white"/>
 </p>
 
