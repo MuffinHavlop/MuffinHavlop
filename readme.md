@@ -1,6 +1,5 @@
 <h1 align="center"><i>Engineering Wanabe</i></h1>
 
----
 <p align="center">
 An amateur programmer, engineering student at UET-VNU. I mainly study engineering but I also have some interest in programming, specifically Matlab, Basic python, and sometimes computer architect.
 
