@@ -1,4 +1,4 @@
-<h1 align="center"><i>Psyber's hole</i></h1>
+<h1 align="center"><i>Engineering Wanabe</i></h1>
 
 ---
 
@@ -17,18 +17,6 @@ An amateur programmer at UET-VNU. I mainly study engineering but I also have som
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNtang2c2xyam9mYWtzb3l4M2JjYmhxM3BxaXh0OGZ1OXkxdjJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
 </p>
-<div align="center">
-     <kbd>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Lithography ■ Making things go beepboop ■ Coding for fun ■  &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
 
 ---
-
-<h1 align="center">Main studies</h1>
-
-<p align="center">Hardware | Python | Mathematics | Physics | Engineering</p>
-
-<p align="center">■One must imagine hapniess in engineering (it's painful).■</p>
+<p align="center">Matlab | Python | Mathematics | Physics | Engineering</p>
